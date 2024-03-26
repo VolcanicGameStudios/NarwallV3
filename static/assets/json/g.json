@@ -1261,7 +1261,7 @@
   },
   {
     "name": "Precision Client",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/precision-client/index.html",
+    "link": "https://precisionclient.vercel.app/",
     "image": "/assets/media/icons/precision.webp",
     "categories": ["all"]
   },
