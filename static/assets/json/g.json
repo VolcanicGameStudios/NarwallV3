@@ -12,6 +12,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Hornex.PRO",
+    "link": "https://hornex.pro/",
+    "image": "/assets/media/icons/hornex.jpeg",
+    "categories": ["all"]
+  },
+  {
     "name": "NBA Live Mobile",
     "link": "https://universityequality.com/apps/electronic-arts/2156/nba-live-mobile-basketball.html",
     "image": "/assets/media/icons/nbalive.jpeg",
