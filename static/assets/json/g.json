@@ -6,6 +6,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Kour.io",
+    "link": "https://kour.io",
+    "image": "/assets/media/icons/kour.png",
+    "categories": ["all"]
+  },
+  {
     "name": "Amazon Luna",
     "link": "https://luna.amazon.com/",
     "image": "/assets/media/icons/amazon-luna.webp",
