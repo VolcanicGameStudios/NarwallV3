@@ -12,6 +12,12 @@
     "categories": ["all"]
   },
   {
+    "name": "NBA Live Mobile",
+    "link": "https://universityequality.com/apps/electronic-arts/2156/nba-live-mobile-basketball.html",
+    "image": "/assets/media/icons/nbalive.png",
+    "categories": ["all"]
+  },
+  {
     "name": "Amazon Luna",
     "link": "https://luna.amazon.com/",
     "image": "/assets/media/icons/amazon-luna.webp",
